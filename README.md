@@ -42,7 +42,7 @@ O projeto tem por objetivo a avaliação e prática dos conhecimentos adquiridos
 ## ANTES DE INICIALIZAR A APLICAÇÃO:
 
 1. Clone o repositório
-  * `git clone git@github.com:felipe-seabra/Trybe-project-todo-list.git`
+  * `git clone git@github.com:felipe-seabra/Trybe-project-pixels-art.git`
   * Entre na pasta do repositório na sua máquina:
     * `Trybe-project-pixels-art`
 
