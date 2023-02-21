@@ -74,3 +74,5 @@ Quando é executado o comando `npm run lint`, ele irá avaliar se os arquivos co
 ## Desmontração de Uso
 
 ![exemplo de arte com pixels](./art-with-pixels.gif)
+
+© Desenvolvido por [Felipe Seabra](https://www.linkedin.com/in/felipe-seabra/) 
